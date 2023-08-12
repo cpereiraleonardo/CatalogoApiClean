@@ -4,6 +4,7 @@
 Para fazer o migrattions no console do Nuget é necessário usar o comando abaixo:
 >add-migration cargaIncial -project Catalogo.Infrastructure
 
+Onde "cargaInicial" é o nome indicado para identificar o Migration.
 
 
 Foi necessário o arquivo program.cs adicionando a linha:
